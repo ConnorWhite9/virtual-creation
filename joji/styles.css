@@ -1,0 +1,50 @@
+.fullscreen {
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    font-size: 3vh;
+
+}
+
+.one {
+    background-image: url('a-glimpse-of-joji-how-filthy-frank-evolved-into-billboard-charting-music-sabukaru.jpeg');
+    background-size: cover;
+}
+
+
+
+.text-container {
+    margin-top: 50vh;
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(33, 33, 33);
+}
+
+.two {
+    background-image: url('Joji-Slow-Dancing-in-the-Dark-2019-billboard-1548.webp');
+    background-size: cover;
+} 
+
+.three {
+    background-image: url('maxresdefault.jpg');
+    background-size: cover;
+}
+
+.four {
+    background-image: url('JOJI-2022-Approved-Press-Photo-1024.jpg');    
+    background-size: cover;
+}
+
+.disclaimer {
+    bottom: 0;
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 3vh;
+}
+
+.title {
+    font-size: 10vh;
+    text-decoration: none;
+}
